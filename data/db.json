@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Jangan Lupa Sholat",
+      "isFav": true
+    },
+    {
+      "title": "Kerja",
+      "isFav": false,
+      "id": 3
+    },
+    {
+      "title": "Makan",
+      "isFav": false,
+      "id": 5070
+    }
+  ]
+}
