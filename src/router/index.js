@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import store from '../views/store.vue'
+import ardika from '../views/ardika.vue'
 
 const routes = [
   {
@@ -20,6 +21,11 @@ const routes = [
     path: '/store',
     name: 'store',
     component: store
+  },
+  {
+    path: '/ardika',
+    name: 'ardika',
+    component: ardika
   }
 ]
 

@@ -2,7 +2,8 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">tttt</router-link> |
-    <router-link to="/store">StoreEsi</router-link>
+    <router-link to="/store">StoreEsi</router-link> |
+    <router-link to="/ardika">ardika</router-link>
   </nav>
   <router-view/>
 </template>
